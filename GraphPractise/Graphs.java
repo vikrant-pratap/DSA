@@ -1,4 +1,4 @@
-
+package GraphPractise;
 
 /*Creation of Adjaceny Matrix for Undiredted Graph */
 

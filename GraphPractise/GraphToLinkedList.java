@@ -1,3 +1,7 @@
+package GraphPractise;
+
+import GraphPractise.BFSImpl;
+
 import java.util.LinkedList;
 
 public class GraphToLinkedList {
